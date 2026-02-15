@@ -1,6 +1,6 @@
 # Analizador Léxico con Flex
 
-**Link al video:** [Descargar Problema 2](./problema%202.mp4)
+**Link al video:** [video Problema 2](./problema%202.mp4)
 
 ---
 
